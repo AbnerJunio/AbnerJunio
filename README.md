@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AbnerJunio
+- 👀 I’m interested in study programming language
+- 🌱 I’m currently learning C#
+- 📫 How to reach me abnerjunio15@gmail.com
